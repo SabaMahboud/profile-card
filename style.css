@@ -13,4 +13,5 @@ body {
   margin: calc(10%) auto;
 }
 .container .picture {
+  border: 5px solid red;
 }
